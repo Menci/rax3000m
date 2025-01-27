@@ -12,6 +12,8 @@ The `cfg_export_config_file.conf` and `cfg_export_config_file_new.conf` files ar
 
 ## NAND version
 
+There're two NAND version of dumps: The newer version `NAND` encrypts the config file. The older version `NAND_Old` doesn't.
+
 ### Partition Info
 
 ```
